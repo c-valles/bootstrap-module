@@ -1,0 +1,46 @@
+/* FLEXBOX */
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+nav {
+    background-color: aqua;
+}
+
+
+/* NAVIGATION BAR */
+.dropdown-menu {
+    margin-left: auto;
+}
+
+/*IMAGES*/
+#usericon {
+    max-width: 100px;
+    border-radius: 50%;
+    margin-right: auto;
+}
+
+#bubblecleanser {
+    max-width: 30%;
+    border-radius: 50%;
+    justify-content: center;
+}
+
+/* SECTION 1 */
+#section1 {
+    background-color: aliceblue;
+    border-radius: 25px;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    align-self: center;
+}
+
+.accordianBody {
+    text-align: center;
+}
